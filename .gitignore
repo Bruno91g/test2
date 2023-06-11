@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# pas de fichier s'intitulant individu_reg
+individu_reg.*
