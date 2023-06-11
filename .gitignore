@@ -50,3 +50,7 @@ rsconnect/
 
 # pas de fichier s'intitulant individu_reg
 individu_reg.*
+
+
+# mes secrets
+secrets.yaml
